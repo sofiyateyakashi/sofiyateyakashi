@@ -4,13 +4,14 @@
 
 ## About me :sunflower:
 
-<br>Привет, я QA из Санкт-Петербурга :office:
+<br>Привет, я QA из Санкт-Петербурга :yellow_heart:
 <br> Люблю составлять чек-листы :relaxed:
 <br> Всегда готова поддержать позитивный настрой в общении :green_heart:
 <br> Осваиваю автоматизированное тестирование :clock130:
-<br> Мой сайт [Сайт-визитка](https://github.com/sofiyateyakashi/CV)
-<br> Телеграм бот для генерации тестовых пользователей [Бот](https://t.me/sofiya_usersgeneration_bot)
-
+<i><b>
++ Мой сайт - [Сайт-визитка](https://github.com/sofiyateyakashi/CV)
++ Телеграм бот для генерации тестовых пользователей - [Бот](https://t.me/sofiya_usersgeneration_bot)
+</i></b>
 
  
 ## Stack and tools :gem:
