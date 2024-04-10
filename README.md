@@ -23,9 +23,10 @@
 
 ## Contact me :email:
 
-[<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" />]()
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk" />]()
+[<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" />](https://sona20024@gmail.com
+)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/sofiyateyakashi)
+[<img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk" />](https://vk.com/sofiyatetsuya)
 
 
 
