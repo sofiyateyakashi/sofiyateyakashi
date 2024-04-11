@@ -1,6 +1,6 @@
 <h1 align="center"> <i> Привет, я София :speech_balloon: </i> </h1> 
 
-![Header]()
+![Header](https://github.com/sofiyateyakashi/sofiyateyakashi/blob/main/assets/qaheader4635.gif)
 
 ## About me :sunflower:
 
