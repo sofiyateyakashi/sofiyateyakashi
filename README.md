@@ -19,6 +19,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 ![DevTools](https://img.shields.io/badge/-Devtools-000010?style=for-the-badge)
 ![DevTools](https://img.shields.io/badge/-MySQL-000010?style=for-the-badge)
+![DevTools](https://img.shields.io/badge/-Swagger-000010?style=for-the-badge)
 ![DevTools](https://img.shields.io/badge/-Kibana-000010?style=for-the-badge)
 ![DevTools](https://img.shields.io/badge/-Charles-000010?style=for-the-badge)
 
