@@ -10,7 +10,6 @@
 <br> Осваиваю автоматизированное тестирование :clock130:
 <i><b>
 + Мой сайт - [Сайт-визитка](https://github.com/sofiyateyakashi/CV)
-+ Телеграм бот для генерации тестовых пользователей - [Бот](https://t.me/sofiya_usersgeneration_bot)
 </i></b>
 
  
